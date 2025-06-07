@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.js": "/gateControl/static/js/main.00349188.js",
+    "main.css": "/gateControl/static/css/main.e6c13ad2.css",
+    "main.js": "/gateControl/static/js/main.898fb9f1.js",
     "service-worker.js": "/gateControl/service-worker.js",
     "index.html": "/gateControl/index.html",
-    "main.00349188.js.map": "/gateControl/static/js/main.00349188.js.map"
+    "main.e6c13ad2.css.map": "/gateControl/static/css/main.e6c13ad2.css.map",
+    "main.898fb9f1.js.map": "/gateControl/static/js/main.898fb9f1.js.map"
   },
   "entrypoints": [
-    "static/js/main.00349188.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.898fb9f1.js"
   ]
 }
