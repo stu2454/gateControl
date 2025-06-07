@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/gateControl/static/js/main.00349188.js",
+    "service-worker.js": "/gateControl/service-worker.js",
+    "index.html": "/gateControl/index.html",
+    "main.00349188.js.map": "/gateControl/static/js/main.00349188.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.00349188.js"
+  ]
+}
